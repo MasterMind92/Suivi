@@ -1,0 +1,1 @@
+les images dela partie gestion ds cpte doivent etre placé dans dist/img/icons
