@@ -1,7 +1,7 @@
 #Masquage de l'url 
 
 RewriteEngine on
-RewriteBase /tests/IDA2A/
+RewriteBase /tests/Suivi/
 RewriteRule ^identification$ page/administration/Login.php
 RewriteRule ^Comptes$ page/administration/GestComptes.php
 RewriteRule ^Traitement$ app/Traitement.php

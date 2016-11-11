@@ -74,7 +74,7 @@ if (!isset($_SESSION['erreur'])) {
 						<td> &nbsp; </td>
 						<td><img src="img/logo_sodeci.jpg" width="100%" height="100%"></td>
 						<td> &nbsp; </td>
-						<td><img src="img/environnement.jpg" width="100%" height="100%"></td>
+						<td><img src="img/anasur.jpg" width="100%" height="100%"></td>
 					</tr>
 				</table>
 				<center> <span> &copy; Copyright <br>IDA2,tous droits r&eacute;serv&eacute;s</span></center>

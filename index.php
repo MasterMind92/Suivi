@@ -11,19 +11,15 @@ if (isset($_GET['p'])) {
 ob_start();
 if ($page === 'accueil') {
 	require 'page/accueil.php';
-} elseif ($page === 'problemes') {
-	require 'page/Frmproblemes.php';
-} elseif ($page === 'solutions') {
-	require 'page/FrmSolutions.php';
+} elseif ($page === 'incident') {
+	require 'page/incident.php';
 } elseif ($page === 'geolocalisation') {
 	require 'page/Carte.php';
-} elseif ($page === 'contact') {
-	require 'page/Contact.php';
 }
 
 
 $content = ob_get_clean();
 
-require 'page/template/default.php';
+require 'page/template/template.php';
 
 

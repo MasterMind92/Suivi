@@ -3,19 +3,21 @@
 	
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="background-color: rgb(255,157,60);">
 
-			<h3 align="center">Soyez les bienvenu(e)s sur notre application de gestion des eaux  usees</h3>
-			<p>
-			Bienvenue sur l’application de la classe IDA 2eme Annee, ce site vous permettra 
-			entre autres d’aider  a l’assainissement de vos quartiers, notamment en vous 
-			permettant de signaler des problemes , et de proposer solutions ou suggestions 
-			par rapport a votre vision des choses . 
-			</p>
+		<h3 align="center">Soyez les bienvenu(e)s sur notre application de gestion des eaux  usees</h3>
+		<p>
+		Bienvenue sur l’application de la classe IDA 2eme Annee, ce site vous permettra 
+		entre autres d’aider  a l’assainissement de vos quartiers, notamment en vous 
+		permettant de signaler des problemes , et de proposer solutions ou suggestions 
+		par rapport a votre vision des choses . 
+		</p>
 
-			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<img src="dist/img/projet/abidjan.jpg"  width="100%" class="img-responsive" alt="Image">
-			</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<img src="dist/img/projet/abidjan.jpg"  height="500" class="img-responsive" alt="Image">
+		</div>
 
-	<button type="button" class="suivant btn btn-default btn-block"><span class="glyphicon glyphicon-chevron-down"></span></button>
+		<button type="button" data-id="1" class="suivant btn btn-default btn-block">
+			<span class="glyphicon glyphicon-chevron-down"></span>
+		</button>
 
 	
 	</div>
@@ -30,9 +32,9 @@
 			Il est important de savoir  que les populations ne sont assez averties quant a l’utilisation des differentes composantes qui aident a l’evacuation des eaux et ont tendance a confondre les poubelles avec les canniveaux, les consequences qui en decoulent  sont donc des eaux uses stagnantes.  Ici sur ce site nous vous aidont a  montrer du doigt les differentes zones ou vous vous verrez des eaux usees.
 		</p>
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<img src="dist/img/projet/eauxUsees.jpeg"  class="img-responsive" alt="Image">
+				<img src="dist/img/projet/eauxUsees.jpeg"  height="500" class="img-responsive" alt="Image">
 			</div>
-		<button type="button" class="suivant  btn btn-default btn-block"><span class="glyphicon glyphicon-chevron-down"></span></button>
+		<button type="button" data-id="2" class="suivant  btn btn-default btn-block"><span class="glyphicon glyphicon-chevron-down"></span></button>
 
 	</div>
 
@@ -48,9 +50,9 @@
 		</P>
 
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<img src="dist/img/projet/Geste.jpg"  width="100%" class="img-responsive" alt="Image">
+				<img src="dist/img/projet/Geste.jpg"  height="500" class="img-responsive" alt="Image">
 			</div>
-		<button type="button" class="suivant  btn btn-default btn-block"><span class="glyphicon glyphicon-chevron-down"></span></button>
+		<button type="button" data-id="3" class="suivant  btn btn-default btn-block"><span class="glyphicon glyphicon-chevron-down"></span></button>
 	</div>
 
 </div>

@@ -114,7 +114,7 @@
 	<body>
 	<div class="row">
 		<div class="col-md-offset-1 col-lg-offset-1 col-md-10 col-lg-10">
-			<nav class="navbar navbar-orange navbar-embossed">
+			<nav class="navbar navbar-inverse navbar-embossed">
 				<form role="search" class="navbar-form navbar-right">
   					<div class="form-group">
   					<a href="" id="theme"><img src="../IDA2A/page/administration/images/theme.png"></a> 
@@ -144,7 +144,7 @@
 
 			<div class="row">
 				<div class="col-md-12 col-lg-12">
-					<nav class="navbar navbar-orange">
+					<nav class="navbar navbar-inverse">
 						<a class="navbar-brand" href="accueil"><img id="ita" src="../IDA2A/page/administration/images/ita.png"></a>
 						
 						<a data-page="Google" class="navbar-brand txt-bv" >ACCUEIL</a>
@@ -152,7 +152,7 @@
 						<div class="btn-group">
   							
   							<div class="btn-group">
-  							<a class="btn btn-orange dropdown-toggle " type="button" data-toggle="dropdown">
+  							<a class="btn btn-primary dropdown-toggle " type="button" data-toggle="dropdown">
     							INFORMATION<span class="caret"></span>
   							</a>
   							<ul class="dropdown-menu" role="menu">
@@ -163,7 +163,7 @@
 
   							<div class="btn-group">
 							
-  							<a class="btn btn-orange dropdown-toggle" type="button" data-toggle="dropdown">
+  							<a class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
     							FAQ<span class="caret"></span>
   							</a>
   							<ul class="dropdown-menu" role="menu">
@@ -175,7 +175,7 @@
 						
   							<div class="btn-group">
 							
-  							<a class="btn btn-orange dropdown-toggle" type="button" data-toggle="dropdown">
+  							<a class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
     							STATISTIQUE<span class="caret"></span>
   							</a>
   							<ul class="dropdown-menu" role="menu">
@@ -186,7 +186,7 @@
 
   							<div class="btn-group">
 
-  							<a class="btn btn-orange dropdown-toggle" type="button" data-toggle="dropdown">
+  							<a class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
     							COMPTES<span class="caret"></span>
   							</a>
   							<ul class="dropdown-menu" role="menu">
@@ -217,7 +217,7 @@
 					
 
 	<footer class="row">
-		<div class=" col-md-12 col-lg-12 navbar-orange">
+		<div class=" col-md-12 col-lg-12 navbar-inverse">
 			<div class="row">
 				<div class="col-md-offset-5 col-lg-offset-5 col-md-4 col-lg-4">
 					<img id="foot" src="../IDA2A/page/administration/images/ita.png" class="img-responsive" alt="Image">

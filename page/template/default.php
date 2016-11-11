@@ -142,10 +142,10 @@ if (!isset($_SESSION['erreur'])) {
               <img src="dist/img/projet/ita.jpg"  class="img-responsive" alt="Image">
             </div>
             <div class="col-xs-offset-1 col-xs-4 col-sm-offset-1 col-sm-4 col-md-offset-1 col-md-4 col-lg-offset-1 col-lg-4">
-              <img src="dist/img/projet/logo_sodeci.jpg"  height=""  class="img-responsive" alt="Image">
+              <img src="dist/img/projet/logo_sodeci.jpg"   class="img-responsive" alt="Image">
             </div>
             <div class="col-xs-offset-1 col-xs-3 col-sm-offset-1 col-sm-3 col-md-offset-1 col-md-3 col-lg-offset-1 col-lg-3">
-              <img src="dist/img/projet/environnement.jpg" class="img-responsive" alt="Image">
+              <img src="dist/img/projet/anasur.jpg" height='100' class="img-responsive" alt="Image">
             </div>
           </div>
         </div>
